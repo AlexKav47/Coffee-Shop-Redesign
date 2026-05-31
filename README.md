@@ -8,4 +8,4 @@ This project was built as a self-directed web development project to practise fr
 
 Add your live link here once deployed:
 
-https://your-demo-link.vercel.app](https://coffee-shop-redesign-2eaudgrvh-alexkav47-5254s-projects.vercel.app/
+https://coffee-shop-redesign-2eaudgrvh-alexkav47-5254s-projects.vercel.app/
